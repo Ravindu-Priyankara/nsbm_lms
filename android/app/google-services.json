@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "324951000730",
+    "project_id": "nsbm-lms",
+    "storage_bucket": "nsbm-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324951000730:android:9f1287ca770fa070f0c123",
+        "android_client_info": {
+          "package_name": "com.ravinduPriyankara.nsbm_lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324951000730-8eldhb8vq2vakc3tjp9qe9ab06rt4n3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEb-SgJuIVggMX1mgBj11dbvbNOdMSclw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324951000730-8eldhb8vq2vakc3tjp9qe9ab06rt4n3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324951000730-c8kt764tklj4mca1j0mdmu19s44jcs8r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ravinduPriyankara.nsbmLms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

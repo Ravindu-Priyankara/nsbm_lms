@@ -1,6 +1,8 @@
 # nsbm_lms
 
-A new Flutter project.
+Flutter Digital Learning Envirenment app(DLE).
+
+![image](assets/Screenshot 2023-05-18 at 23.23.47)
 
 ## Getting Started
 

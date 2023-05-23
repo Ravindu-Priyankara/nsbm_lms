@@ -2,7 +2,9 @@
 
 Flutter Digital Learning Envirenment app(DLE).
 
-![image](assets/Screenshot 2023-05-18 at 23.23.47.png)
+<img src="assets/Screenshot 2023-05-18 at 23.23.47.png" width="828"/>
+
+
 
 ## Getting Started
 
